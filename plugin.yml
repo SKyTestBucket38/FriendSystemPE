@@ -1,9 +1,9 @@
 name: FriendSystemPE
 description: Adds a friends system to Pocket Edition!
 author: BrokenLens
-version: 1.11.0
+version: 1.0.0
 main: BrokenLens\FriendSystemPE\Main
-api: 1.4
+api: 3.9.3
 commands:
  friend:
   description: Main command for FriendsSystem.
